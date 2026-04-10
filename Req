@@ -1,0 +1,4 @@
+<?php
+$telegramChatID = "7220798726";
+$telegramBotToken  = "8129137755:AAHUsWxOXvD7NhEc6cZQQRTu5nkQkyCa9D0";
+?>
